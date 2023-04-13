@@ -1,0 +1,2 @@
+new content in file3
+new line in file 3
